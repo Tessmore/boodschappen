@@ -18,4 +18,4 @@ To create a production version of your app:
 yarn build
 ```
 
-You can preview the production build with `npm run preview`.
+You can preview the production build with `yarn preview`.
